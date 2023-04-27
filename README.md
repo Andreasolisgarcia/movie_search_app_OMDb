@@ -20,7 +20,7 @@ Pour utiliser ce projet, vous aurez besoin de votre PROPRE CLE API The Open Movi
 
 5. Entrez le titre du film que vous recherchez dans la barre de recherche.
 
-6. Cliquez sur le bouton "Rechercher".
+6. Cliquez sur le bouton "loupe.
 
 7. Les résultats de votre recherche s'afficheront sur la page.
 
