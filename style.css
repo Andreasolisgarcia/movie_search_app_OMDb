@@ -25,9 +25,9 @@ body {
   border-radius: 20px;
 }
 
-h1 {
-  color: white;
-  margin-top: 10px;
+.searchbar{
+
+  margin-top: 23px;
   margin-left: 20px;
 }
 
