@@ -1,5 +1,5 @@
-import { apiKey, films } from "./apikey.js";
-
+//import { apiKey, films } from "./apikey.js";
+const apiKey = prompt("donne an API stp");
 // Récupération des pièces depuis le fichier JSON
 const reponse = await fetch("movies.json");
 const movies = await reponse.json();
