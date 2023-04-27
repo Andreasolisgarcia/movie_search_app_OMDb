@@ -2,7 +2,11 @@
 
 Bienvenue sur le projet "Trouver des films par titre" !
 
-Ce projet est un site web qui permet aux utilisateurs de rechercher des films en fonction de leur titre. Le site web est basé sur une API publique qui fournit des informations sur les films tels que le titre, le synopsis, la date de sortie, la durée, les acteurs et plus encore.
+Ce projet est un site web qui permet aux utilisateurs de rechercher des films en fonction de leur titre. Le site web est basé sur l'API publique de The Open Movie Database qui fournit des informations sur les films tels que le titre, le synopsis, la date de sortie, la durée, les acteurs et plus encore.
+
+### *******  IMPORTANT  *******
+
+Pour utiliser ce projet, vous aurez besoin de votre PROPRE CLE API The Open Movie Database. Vous pouvez obtenir une clé gratuite en vous inscrivant sur leur site web à l'adresse suivante : https://www.omdbapi.com/.
 
 ## Comment utiliser ce projet :
 
@@ -12,10 +16,13 @@ Ce projet est un site web qui permet aux utilisateurs de rechercher des films en
 
 3. Ouvrez le fichier `index.html` dans votre navigateur web.
 
-4. Entrez le titre du film que vous recherchez dans la barre de recherche.
+4. Entrez votre clé d'API The Open Movie Database lorsque vous êtes invité(e) à le faire dans la boîte de dialogue.
 
-5. Cliquez sur le bouton "lupe.
+5. Entrez le titre du film que vous recherchez dans la barre de recherche.
 
-6. Les résultats de votre recherche s'afficheront sur la page.
+6. Cliquez sur le bouton "Rechercher".
 
-Vous pouvez également visiter le site web en ligne en suivant ce lien : https://andreasolisgarcia.github.io/movie_search_app_OMDb/
+7. Les résultats de votre recherche s'afficheront sur la page.
+
+https://andreasolisgarcia.github.io/movie_search_app_OMDb/.
+
